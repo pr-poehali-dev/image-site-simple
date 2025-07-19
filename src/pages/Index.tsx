@@ -11,13 +11,7 @@ const Index = () => {
       
       <div className="absolute inset-0 bg-black/20 animate-fade-in" />
       
-      <div className="relative z-10 min-h-screen flex items-center justify-center px-4">
-        <div className="text-center animate-scale-in">
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-light text-white mb-8 animate-fade-in [animation-delay:0.3s] opacity-0 [animation-fill-mode:forwards]">
-            я люблю тебя, Кирилл
-          </h1>
-        </div>
-      </div>
+
     </div>
   );
 };
